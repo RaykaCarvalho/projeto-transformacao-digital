@@ -23,8 +23,6 @@ Este projeto simula a aplicação de ferramentas digitais para melhorar a produt
 ---
 
 
----
-
 ## 📋 Plano do Projeto
 
 O plano completo está disponível em [`docs/plano-projeto.md`](docs/plano-projeto.md), e inclui:
@@ -41,16 +39,15 @@ O plano completo está disponível em [`docs/plano-projeto.md`](docs/plano-proje
 
 ## 📊 Resultados Simulados
 
-Os dados simulados foram criados para representar a diferença entre o cenário **antes** e **depois** da implementação do Trello.
-
 ### 🔴 Antes do Trello
-![Gráfico Antes](imagens/grafico-antes-do-trello.png)
+![Gráfico Antes](imagens/Resultadotrello.png)
 
 ### 🟢 Depois do Trello
-![Gráfico Depois](imagens/grafico-depois-do-trello.png)
+![Gráfico Depois](imagens/ResultadoTrello%20(2).png)
 
 ### 📈 Dados Simulados no Excel
-![Dados Excel](imagens/dadosExcel.png)
+![Dados Excel](imagens/DadosExcel.png)
+
 
 ---
 
@@ -59,7 +56,8 @@ Os dados simulados foram criados para representar a diferença entre o cenário 
 A simulação foi feita com um quadro Trello contendo listas como "A Fazer", "Em andamento", "Concluído" e "Aguardando".  
 Veja abaixo o print do quadro:
 
-![Quadro Trello](imagens/trello-quadro.png)
+![Quadro Trello](imagens/Trello.png)
+
 
 ---
 
